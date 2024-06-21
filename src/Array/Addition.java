@@ -1,6 +1,8 @@
 package Array;
 
 public class Addition {
+
+	//this is array program to addition
 	public static void main(String[] args) {
 		byte x[]= {10,20,30,40,50};
 	   int addition=0;
