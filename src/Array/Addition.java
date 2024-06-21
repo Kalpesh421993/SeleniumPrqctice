@@ -2,7 +2,7 @@ package Array;
 
 public class Addition {
 
-	//this is array program to addition
+	//this is array program to addition to see what will be updated in github
 	public static void main(String[] args) {
 		byte x[]= {10,20,30,40,50};
 	   int addition=0;
